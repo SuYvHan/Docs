@@ -29,4 +29,9 @@ export default navbar([
     icon: "fa-wrench",
     link: "/开发文档/",
   },
+  {
+    text: "服务状态",
+    icon: "fa-wrench",
+    link: "http://status.xiaozhuhouses.asia/status/game",
+  },
 ]);
