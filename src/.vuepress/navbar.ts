@@ -34,4 +34,9 @@ export default navbar([
     icon: "fa-wrench",
     link: "http://status.xiaozhuhouses.asia/status/game",
   },
+  {
+    text: "开服包云构建",
+    icon: "fa-cloud",
+    link: "https://download.mc.xiaozhuhouses.asia:4433",
+  },
 ]);
